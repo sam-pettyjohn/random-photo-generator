@@ -11,8 +11,6 @@ A Random Photo Generator App that pulls images from [Unsplash](https://unsplash.
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Built With](#built-with)
   - [Questions](#questions)
   - [License](#license)
