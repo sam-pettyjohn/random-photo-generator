@@ -72,6 +72,4 @@ class ViewController: UIViewController {
         }
         imageView.image = UIImage(data:data)
     }
-
-
 }
