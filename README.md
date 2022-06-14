@@ -17,7 +17,7 @@ A Random Photo Generator App that pulls images from [Unsplash](https://unsplash.
   
 ## Mock-Up
 
-![mockup](RandomPhoto/mock-up.png)
+![mockup](mock-up.png)
   
 ## Usage
 
