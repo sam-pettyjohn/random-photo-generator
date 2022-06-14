@@ -13,6 +13,7 @@
 		95C5E6212858200A00765EBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95C5E61F2858200A00765EBE /* Main.storyboard */; };
 		95C5E6232858200A00765EBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95C5E6222858200A00765EBE /* Assets.xcassets */; };
 		95C5E6262858200A00765EBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95C5E6242858200A00765EBE /* LaunchScreen.storyboard */; };
+		95C5E6312858311A00765EBE /* mock-up.png in Resources */ = {isa = PBXBuildFile; fileRef = 95C5E6302858311A00765EBE /* mock-up.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +26,7 @@
 		95C5E6252858200A00765EBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95C5E6272858200A00765EBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95C5E62D28582B5500765EBE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		95C5E62F28582F4900765EBE /* images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = images.xcassets; sourceTree = "<group>"; };
+		95C5E6302858311A00765EBE /* mock-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mock-up.png"; path = "../../../../Desktop/mock-up.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +43,6 @@
 		95C5E60D2858200A00765EBE = {
 			isa = PBXGroup;
 			children = (
-				95C5E62F28582F4900765EBE /* images.xcassets */,
 				95C5E62D28582B5500765EBE /* README.md */,
 				95C5E6182858200A00765EBE /* RandomPhoto */,
 				95C5E6172858200A00765EBE /* Products */,
@@ -60,6 +60,7 @@
 		95C5E6182858200A00765EBE /* RandomPhoto */ = {
 			isa = PBXGroup;
 			children = (
+				95C5E6302858311A00765EBE /* mock-up.png */,
 				95C5E6192858200A00765EBE /* AppDelegate.swift */,
 				95C5E61B2858200A00765EBE /* SceneDelegate.swift */,
 				95C5E61D2858200A00765EBE /* ViewController.swift */,
@@ -129,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95C5E6312858311A00765EBE /* mock-up.png in Resources */,
 				95C5E6262858200A00765EBE /* LaunchScreen.storyboard in Resources */,
 				95C5E6232858200A00765EBE /* Assets.xcassets in Resources */,
 				95C5E6212858200A00765EBE /* Main.storyboard in Resources */,

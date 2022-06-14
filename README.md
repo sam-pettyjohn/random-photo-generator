@@ -19,7 +19,7 @@ A Random Photo Generator App that pulls images from [Unsplash](https://unsplash.
   
 ## Mock-Up
 
-![homepage](/Users/sampettyjohn/Documents/Xcode Projects/RandomPhoto/images.xcassets)
+![mockup](RandomPhoto/mock-up.png)
   
 ## Usage
 
